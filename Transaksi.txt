@@ -1,0 +1,2 @@
+KodeTransaksi,NIS,KodeBuku,TglPinjam,TglKembali,Statusy010,456,001,hari ini,-,0
+011,456,002,hari ini,-,0
